@@ -162,7 +162,7 @@ After completing and explaining this project, you should understand:
 - Returning meaningful command-line exit codes
 - Writing basic unit tests
 
-## Suggested GitHub Topics
+## GitHub Topics
 
 `python` · `cybersecurity` · `file-integrity-monitoring` · `sha256` ·
 `security-monitoring` · `beginner-project`
